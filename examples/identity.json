@@ -1,0 +1,24 @@
+{
+  "camera": {
+    "width": 640,
+    "height": 480,
+    "fx": 800,
+    "fy": 820,
+    "cx": 315,
+    "cy": 238
+  },
+  "image": {
+    "left": 0,
+    "top": 0,
+    "width": 640,
+    "height": 480,
+    "out_width": 640,
+    "out_height": 480,
+    "mode": "half_pixel"
+  },
+  "point_xyz": [
+    0.1,
+    -0.05,
+    1.0
+  ]
+}
